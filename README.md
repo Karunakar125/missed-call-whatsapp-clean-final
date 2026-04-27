@@ -3,8 +3,7 @@
 Turn missed calls into instant WhatsApp conversations.
 
 ## 🎥 Demo
-(Add your Loom video link here)
-
+https://www.linkedin.com/feed/update/urn:li:ugcPost:7454028460999696384/
 ---
 
 ## 🚨 Problem
@@ -56,6 +55,6 @@ This system detects missed calls in real-time and sends a WhatsApp message to th
 
 ---
 
-## 🔐 Setup
 
-Create `.env` file:
+
+
